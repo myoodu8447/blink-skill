@@ -309,7 +309,11 @@ MIT © 2026 山而
 
 ---
 
-## 🙏 Credits
+## 👥 Contributors
 
-Built as part of **长征机 (Changzheng)** — a personal AI assistant that runs 24/7 on Windows, powered by Claude + DeepSeek.  
-作者：山而 · [@zhangtianruiwork-droid](https://github.com/zhangtianruiwork-droid)
+| | Name | Role |
+|---|------|------|
+| 🧑‍💻 | **ZHANG Tianrui** ([@zhangtianruiwork-droid](https://github.com/zhangtianruiwork-droid)) | Creator · Architecture · Integration |
+| 🤖 | **Claude** (Anthropic) | Co-developer · Code generation · Vision analysis |
+
+Built as part of **长征机 (Changzheng)** — a personal AI assistant that runs 24/7 on Windows, powered by Claude + DeepSeek.
